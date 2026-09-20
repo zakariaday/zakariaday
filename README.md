@@ -1,7 +1,6 @@
 <h1 align="center">DevOps # Developer zakaria uday</h1>
 <h3 align="center">FullStackDeveloper ~ Brand DesiGner</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
